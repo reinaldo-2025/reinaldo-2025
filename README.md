@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reinaldo dos Santos Júnior
+- 👋 Hi, I’m ...Reinaldo dos Santos Júnior
 - 👀 I’m interested in ...Excel, Copilot
 - 🌱 I’m currently learning ...Excel com Inteligência Artificial
 - 💞️ I’m looking to collaborate on ...
