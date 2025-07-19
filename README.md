@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ...Reinaldo dos Santos Júnior
-- 👀 I’m interested in ...Excel, Copilot, Fusion 360
+- 👀 I’m interested in ...Excel, Copilot, Fusion 360, Python, AI
 - 🌱 I’m currently learning ...Excel com Inteligência Artificial
-- 💞️ I’m looking to collaborate on ... Fusion 360
+- 💞️ I’m looking to collaborate on ... Svelte 5 with Runes
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
